@@ -127,3 +127,7 @@ This project is open source and available under the MIT License.
 - Sept 13, 2024: Fixed ultrasound timing
 - Sept 12, 2024: Added movement commands
 - Sept 1, 2024: Initial release
+
+## Author
+
+**Jonathan M. Rothberg** - [@jmrothberg](https://github.com/jmrothberg)
